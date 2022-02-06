@@ -1,6 +1,6 @@
 # Spellright
 
-Source code for Spellright project. Launched as an executable with a GUI.
+Source code for Spellright project. Launched as an executable with a GUI. Build with pyinstaller.
 
 Usage:
 
