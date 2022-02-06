@@ -8,8 +8,8 @@ Usage:
 
 
 1. Choose a dictionary file.
-2. Choose a read file.
-3. Output displays line locations of words from the read file found in the dictionary file.
+2. Choose a proof file.
+3. Output displays line locations of words from the proof file found in the dictionary file.
 
 E.g.. 
 Dictionary file contains:
