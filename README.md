@@ -4,6 +4,9 @@ Source code for Spellright project. Launched as an executable with a GUI. Build 
 
 Usage:
 
+![image](https://user-images.githubusercontent.com/21097500/152665145-50040267-7079-4c1c-9ebf-1c4c71bdecb7.png)
+
+
 1. Choose a dictionary file.
 2. Choose a read file.
 3. Output displays line locations of words from the read file found in the dictionary file.
