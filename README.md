@@ -14,10 +14,16 @@ quick
 fox
 
 Read file contains:
+
 The quick brown
+
 fox jumped over
+
 the lazy dog.
 
 Output : 
+
 1 quick
+
 2 fox
+
