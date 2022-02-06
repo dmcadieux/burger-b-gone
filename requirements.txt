@@ -1,0 +1,4 @@
+chardet==3.0.4
+nltk==3.5
+pdfminer==20191125
+regex==2020.5.7
