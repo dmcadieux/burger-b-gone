@@ -11,6 +11,7 @@ Usage:
 E.g.. 
 Dictionary file contains:
 quick
+
 fox
 
 Read file contains:
